@@ -56,23 +56,6 @@ def get_recurso_by_id(id):
 
 
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
